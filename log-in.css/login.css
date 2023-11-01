@@ -104,7 +104,7 @@ form p a {
     justify-content: space-between;
 }
 
-.btn-field button {
+button {
     flex-basis: 48%;
     background-color: #0005a0;
     color: #fff;
@@ -116,7 +116,7 @@ form p a {
     transition: background-color 1s;
 }
 
-.btn-field button.disable {
+.disable {
     background-color: #eaeaea;
     color: #555;
 }
